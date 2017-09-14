@@ -1,4 +1,4 @@
-package com.kingdee.club;
+package com.snakebark.club;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
